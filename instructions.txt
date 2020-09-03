@@ -1,0 +1,13 @@
+instructions:
+
+1)install selenium and pandas  and wget.
+       pip install selenium
+       pip install pandas
+
+2)download webdriver according to the browser you are using
+        webdriver -----  chrome(https://sites.google.com/a/chromium.org/chromedriver/downloads) or firefox (https://github.com/mozilla/geckodriver/releases)
+
+3)specify the path where the webdriver is downloaded.
+
+4)specify the path where the downloads should happen.
+
